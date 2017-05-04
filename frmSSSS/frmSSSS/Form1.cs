@@ -15,6 +15,7 @@ namespace frmSSSS
         public Form1()
         {
             InitializeComponent();
+            string ii;
         }
     }
 }
